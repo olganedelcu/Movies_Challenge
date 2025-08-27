@@ -1,4 +1,4 @@
-# Frontend Interview Challenge
+# Frontend Task Challenge
 
 
 ## Getting Started
@@ -94,11 +94,3 @@ This challenge is designed to be completed in 60-90 minutes. Focus on:
 - Don't over-engineer - simple, clean solutions are preferred
 - Ask questions if requirements are unclear
 
-## Submission
-
-When you're done:
-1. Ensure all your code is saved
-2. Test that the application runs without errors
-3. Be prepared to walk through your code and explain your decisions
-
-Good luck! We're excited to see your solution.
