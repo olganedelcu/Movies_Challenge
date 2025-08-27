@@ -1,6 +1,5 @@
-# JustWatch Frontend Interview Challenge
+# Frontend Interview Challenge
 
-Welcome to the JustWatch Frontend Interview Challenge! Your task is to build a movie browsing interface using React and TypeScript.
 
 ## Getting Started
 
